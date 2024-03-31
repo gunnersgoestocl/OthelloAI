@@ -36,7 +36,9 @@
 
 ## モデルと性能(自分との対戦結果)
 
-1. (2000ゲーム×2730ループで学習したモデル) policy.pth, Q_value.pth
+参考までに、AIと対戦する人間は、オセロの級や段は保有していませんが、オセロの基本的な戦略は理解しているものとして問題ないと考えます。
+1. policy.pth, Q_value.pth
+   サンプルサイズ: 2000ゲーム、学習回数: 2730ループで学習
    ネットワーク構造は、以下の通りです。
    ```
    ＃方策ネットワーク
@@ -76,6 +78,47 @@
          nn.Tanh()
      )
    ```
+   私と対戦した結果は、```log/HvsAI_1711844476.850522.txt```に記録されています。人間が 42 vs 5 で勝ちました。
 2. (2000ゲーム×2730ループで学習したモデルその2) policy2.pth, Q_value2.pth
    ネットワーク構造を以下のように変更。
+   ```
+   # 方策ネットワーク
+   self.features = nn.Sequential(
+         nn.Conv2d(1, 4, kernel_size=3, padding=1, padding_mode='replicate'),    # out_channelsは欲しい特徴マップの数
+         nn.ReLU(),
+         nn.Conv2d(4, 16, kernel_size=3, padding=1, padding_mode='replicate'),
+         nn.ReLU(),
+         nn.Conv2d(16, 16, kernel_size=3, padding=1, padding_mode='replicate'),
+         nn.ReLU(),
+         nn.Conv2d(16, 4, kernel_size=3, padding=1, padding_mode='replicate'),
+         nn.ReLU(),
+         nn.Conv2d(4, 1, kernel_size=1)
+     )
+     self.classifier = nn.Sequential(
+         nn.Linear(64, 64),              # 全結合層
+         nn.ReLU(),
+         nn.Linear(64, 64),
+         nn.Softmax(dim=1)               # ミニバッチの各データセットごとに確率分布に変換
+     )
+   # 価値ネットワーク
+   self.features = nn.Sequential(
+         nn.Conv2d(1, 4, kernel_size=7, padding=3, padding_mode='replicate'),
+         nn.ReLU(),
+         nn.Conv2d(4, 16, kernel_size=5, padding=2, padding_mode='replicate'),
+         nn.ReLU(),
+         nn.Conv2d(16, 4, kernel_size=3, padding=1, padding_mode='replicate'),
+         nn.ReLU(),
+         nn.Conv2d(4, 1, kernel_size=1)
+     )
+     self.value = nn.Sequential(
+         nn.Linear(64, 32),
+         nn.ReLU(),
+         nn.Linear(32, 16),
+         nn.ReLU(),
+         nn.Linear(16, 1),
+         nn.Tanh()
+     )
+   ```
+   私と対戦した結果は、```log/HvsAI_1711847885.8918679.txt```に記録されています。人間が 47 vs 17 で勝ちました。
+   1. 2. のモデルに共通して言えるのは、人間よりも角を取る重要性の理解が不足していることです。これは、Convolutional NN や　DNNでは、局所的な特徴を捉えるため、全体に対する角の重要性が反映されにくいという可能性が考えられる。
 3. (未定)
