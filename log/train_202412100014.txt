@@ -1,0 +1,74 @@
+2024/12/10 00:14
+---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x

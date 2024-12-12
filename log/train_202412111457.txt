@@ -1,0 +1,641 @@
+2024/12/11 14:57
+---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x
