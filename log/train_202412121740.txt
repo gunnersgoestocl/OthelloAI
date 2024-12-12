@@ -1,0 +1,11 @@
+2024/12/12 17:40
+---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x
