@@ -1,0 +1,401 @@
+1733988747.7426674
+Human: -1
+AI: 1
+---------<< Hands >>-----------
+|        |
+|        |
+|        |
+|   ox   |
+|   xo   |
+|        |
+|        |
+|        |
+player: x|        |
+|        |
+|        |
+|   ox   |
+|   xo   |
+|        |
+|        |
+|        |
+player: x
+Human: (4, 5)
+|        |
+|        |
+|        |
+|   ox   |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((4, 3))
+|        |
+|        |
+|        |
+|   ooo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (4, 2)
+|        |
+|        |
+|    x   |
+|   oxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((3, 1))
+|        |
+|   o    |
+|    o   |
+|   oxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x|        |
+|   o    |
+|    o   |
+|   oxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (2, 3)
+|        |
+|   o    |
+|    o   |
+|  xxxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((1, 3))
+|        |
+|   o    |
+|    o   |
+| ooooo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x|        |
+|   o    |
+|    o   |
+| ooooo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (3, 2)
+|        |
+|   o    |
+|   xo   |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((2, 1))
+|        |
+|  oo    |
+|   oo   |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (0, 3)
+|        |
+|  oo    |
+|   oo   |
+|xxxxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((2, 3))
+|        |
+|  oo    |
+|   oo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (3, 0)
+|   x    |
+|  ox    |
+|   xo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((2, 0))
+|  ox    |
+|  oo    |
+|   xo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (1, 0)
+| xxx    |
+|  xo    |
+|   xo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((1, 1))
+| xxx    |
+| ooo    |
+|   xo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (2, 2)
+| xxx    |
+| oxo    |
+|  xxo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((4, 1))
+| xxx    |
+| oxoo   |
+|  xoo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (0, 0)
+|xxxx    |
+| xxoo   |
+|  xoo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((0, 1))
+|xxxx    |
+|ooooo   |
+|  xoo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x|xxxx    |
+|ooooo   |
+|  xoo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (0, 2)
+|xxxx    |
+|xxooo   |
+|x xoo   |
+|xxoxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((1, 2))
+|xxxx    |
+|xxooo   |
+|xoooo   |
+|xooxoo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (4, 0)
+|xxxxx   |
+|xxoox   |
+|xooox   |
+|xooxxo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((5, 0))
+|xxxxxo  |
+|xxooo   |
+|xooox   |
+|xooxxo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x|xxxxxo  |
+|xxooo   |
+|xooox   |
+|xooxxo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (6, 0)
+|xxxxxxx |
+|xxooo   |
+|xooox   |
+|xooxxo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((4, 2))
+|xxxxxxx |
+|xxooo   |
+|xooooo  |
+|xooxxo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (5, 1)
+|xxxxxxx |
+|xxxxxx  |
+|xoooxo  |
+|xooxxo  |
+| o xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((4, 3))
+|xxxxxxx |
+|xxxxxx  |
+|xoooxo  |
+|xooxoo  |
+| o xxo  |
+|    x   |
+|        |
+|        |
+player: x|xxxxxxx |
+|xxxxxx  |
+|xoooxo  |
+|xooxoo  |
+| o xxo  |
+|    x   |
+|        |
+|        |
+player: x
+Human: (1, 5)
+|xxxxxxx |
+|xxxxxx  |
+|xxooxo  |
+|xxoxoo  |
+| x xxo  |
+| x  x   |
+|        |
+|        |
+player: o
+AI: ((1, 3))
+|xxxxxxx |
+|xxxxxx  |
+|xxooxo  |
+|xooxoo  |
+|ox xxo  |
+| x  x   |
+|        |
+|        |
+player: x
+Human: (0, 5)
+|xxxxxxx |
+|xxxxxx  |
+|xxooxo  |
+|xooxoo  |
+|xx xxo  |
+|xx  x   |
+|        |
+|        |
+player: o
+AI: ((2, 4))
+|xxxxxxx |
+|xxxxxx  |
+|xxooxo  |
+|xooxoo  |
+|xxoooo  |
+|xx  x   |
+|        |
+|        |
+player: x
+Human: (3, 5)
+|xxxxxxx |
+|xxxxxx  |
+|xxooxo  |
+|xxoxoo  |
+|xxxxoo  |
+|xx xx   |
+|        |
+|        |
+player: o
+AI: ((2, 4))
+|xxxxxxx |
+|xxxxxx  |
+|xxooxo  |
+|xxoxoo  |
+|xxoooo  |
+|xxoxx   |
+|        |
+|        |
+player: x
+Human: (2, 6)
+|xxxxxxx |
+|xxxxxx  |
+|xxxoxo  |
+|xxxxoo  |
+|xxxooo  |
+|xxxxx   |
+|  x     |
+|        |
+player: o
+AI: ((2, 5))
+|xxxxxxx |
+|xxxxxx  |
+|xxxoxo  |
+|xxxxoo  |
+|xxxooo  |
+|xxoxx   |
+| ox     |
+|        |
+player: x

@@ -1,0 +1,137 @@
+2024/12/12 11:23
+---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x---------<< path #0 >>-----------
+|ooooooox|
+|ooooooxx|
+|oooooxox|
+|ooooxoox|
+|ooooooox|
+|oooxooox|
+|ooooxxox|
+|xxxxxxoo|
+player: x

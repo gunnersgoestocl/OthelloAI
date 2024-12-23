@@ -1,0 +1,1802 @@
+2024/12/14 20:44
+---------<< path #0 >>-----------
+|ooooxxxx|
+|oooxxxxo|
+|ooxooxoo|
+|xxxoxooo|
+|xooxooxo|
+|xoxxooxo|
+|ooxxoooo|
+|oooooooo|
+player: o---------<< path #1 >>-----------
+|oooooooo|
+|ooxooxxx|
+|ooooooxx|
+|ooooooxx|
+|oooxooxo|
+|ooooooxo|
+|ooxoxxxo|
+|oooooooo|
+player: x---------<< path #2 >>-----------
+|xxxxoooo|
+|oxxxxooo|
+|xxxxxxxo|
+|xxxxooxo|
+|xxxoooxo|
+|xxoxooxo|
+|xxxoxxxo|
+|oxoooooo|
+player: o---------<< path #3 >>-----------
+|oxoooooo|
+|oooxxooo|
+|oooxxxoo|
+|ooxooxoo|
+|oooooxxo|
+|ooxxxoxx|
+|ooxxooxx|
+|xooooooo|
+player: x---------<< path #4 >>-----------
+|xxxxxxoo|
+|xxoxxxoo|
+|xoxxxxoo|
+|xxxoxoxo|
+|xoxooxxo|
+|xxoxxoxo|
+|xxxoxxxo|
+|oooooxxo|
+player: x---------<< path #5 >>-----------
+|xxxxxxxx|
+|oooooxxx|
+|ooooooox|
+|ooooxoxx|
+|oooxooxx|
+|ooooxxxx|
+|ooooxxxo|
+|xxxxxxxx|
+player: x---------<< path #6 >>-----------
+|oooooooo|
+|ooxoxxoo|
+|oooxooxo|
+|ooxooxxo|
+|oxooooxo|
+|oxxxxxoo|
+|oxxooooo|
+|oxxxxxxo|
+player: x---------<< path #7 >>-----------
+|xooooooo|
+|xoxxoxoo|
+|xxxoxoxo|
+|oxoxoxxo|
+|ooxooxxo|
+|ooxoxxxo|
+|ooxxxxxx|
+|ooxxxxox|
+player: x---------<< path #8 >>-----------
+|xxxxoxxx|
+|xxxooooo|
+|xoooxxoo|
+|xxxxxxoo|
+|xxxxoxoo|
+|xxxooooo|
+|xxooxxoo|
+|oooooxoo|
+player: x---------<< path #9 >>-----------
+|oxxxxxxx|
+|oooooooo|
+|oooooxoo|
+|ooxoxooo|
+|oxoooxoo|
+|ooxoxooo|
+|oooooooo|
+|oxxooxxo|
+player: x---------<< path #10 >>-----------
+|oooooxxo|
+|xooooooo|
+|xxxoxoox|
+|xxxxooxx|
+|xxxoooxx|
+|xxooooxx|
+|xxxxxxxx|
+|oooxxxxx|
+player: x---------<< path #11 >>-----------
+|oooxxxxx|
+|oooooxxx|
+|oxooooxx|
+|oxxxoxxx|
+|oxoxoxxx|
+|xxoxoxxx|
+|xxoxoxxx|
+|xxxxxxxx|
+player: x---------<< path #12 >>-----------
+|oxxxxxxx|
+|oooooxoo|
+|oxooooxo|
+|ooxoxooo|
+|oooooooo|
+|oxoxoxoo|
+|ooooxoxx|
+|ooooooox|
+player: x---------<< path #13 >>-----------
+|ooooooox|
+|xxoooooo|
+|xxooxxxo|
+|xxoxoxoo|
+|xxooxooo|
+|xxoxxooo|
+|xxxxxxoo|
+|oxxooooo|
+player: x---------<< path #14 >>-----------
+|oooooooo|
+|ooxxxxxx|
+|oooxooxx|
+|ooxxoxox|
+|oxoxxoox|
+|oxoxooox|
+|oxxoooox|
+|xxxxxxxx|
+player: o---------<< path #15 >>-----------
+|ooxoooox|
+|xxxxooox|
+|xxooxxxx|
+|xxooxxxx|
+|xoxoxxox|
+|xoxxooxx|
+|xoxxoxxx|
+|oooooooo|
+player: o---------<< path #16 >>-----------
+|ooooooxx|
+|ooooooxx|
+|ooxxxxxx|
+|oxoxxoxx|
+|oooxxooo|
+|ooxxoooo|
+|oxxoxxoo|
+|xxxxxxxo|
+player: x---------<< path #17 >>-----------
+|oooooooo|
+|xxooooox|
+|xxoooxox|
+|xooxxxox|
+|ooxxxxox|
+|oooxooox|
+|xxxxooxx|
+|xxxxxxxx|
+player: x---------<< path #18 >>-----------
+|oooooooo|
+|xxoxxxxx|
+|xxooxoxx|
+|xxoxooxx|
+|xoxxooxx|
+|oooxooox|
+|ooxxxxox|
+|xxxxxxxo|
+player: x---------<< path #19 >>-----------
+|oooooooo|
+|oxxxxxxx|
+|oxooxoxx|
+|oxooxoxx|
+|oooxooxx|
+|ooxoxoxx|
+|oooxooox|
+|xoooooox|
+player: o---------<< path #20 >>-----------
+|oooooooo|
+|oooxooox|
+|ooooxoxx|
+|xxxxooxx|
+|oxoxooox|
+|oxxoooox|
+|oxxxooox|
+|oxxxxoox|
+player: x---------<< path #21 >>-----------
+|ooooooox|
+|ooooooox|
+|xxoxxxxx|
+|ooxoxxxx|
+|oxoxxxoo|
+|ooxxxoxo|
+|ooxxoooo|
+|oooooooo|
+player: o---------<< path #22 >>-----------
+|oooooooo|
+|xxxxxxoo|
+|xxxxooxo|
+|xxxooxxo|
+|xxoxoxxo|
+|xxxoxxxo|
+|xxoxxxxo|
+|xxxxxxxo|
+player: x---------<< path #23 >>-----------
+|xxxxxxxx|
+|xxxxoooo|
+|oxxxoooo|
+|oxxoxooo|
+|oxoxoxoo|
+|ooxoxooo|
+|oooxxxoo|
+|oooooooo|
+player: x---------<< path #24 >>-----------
+|xxxxxxxx|
+|ooooxxox|
+|ooxxoxxx|
+|oxoxoxxx|
+|oxxoxoxx|
+|oxxxoxxx|
+|oxxxoxxx|
+|oxxxxxxx|
+player: o---------<< path #25 >>-----------
+|xxxxoooo|
+|xxxxxxxx|
+|xxxxxxxx|
+|xxxxxxxx|
+|xooxxxxx|
+|xooxoxxx|
+|xoxoooxx|
+|xxxxoxxx|
+player: o---------<< path #26 >>-----------
+|xxxxoooo|
+|xxxxxxxo|
+|oxoxxxxo|
+|oxoxxoxo|
+|oxxxxxxo|
+|oxoxxxxo|
+|oxxxxxxx|
+|oxxxxxxx|
+player: o---------<< path #27 >>-----------
+|xxxxxxxx|
+|xxxxxoxx|
+|xxxxoxxx|
+|xoxoxoxx|
+|xoxoxxox|
+|xxooxoox|
+|xxxxoxxx|
+|ooooooxx|
+player: o---------<< path #28 >>-----------
+|ooooooox|
+|oooxxoox|
+|ooxooxox|
+|ooxooxox|
+|ooxxooxx|
+|oooooxox|
+|xxooooxx|
+|xooooxxx|
+player: x---------<< path #29 >>-----------
+|ooooooox|
+|oooooooo|
+|xooooxoo|
+|xxoxxoox|
+|xoxxooxx|
+|xxxxooxx|
+|xxxxooox|
+|xxxxxxox|
+player: x---------<< path #30 >>-----------
+|ooooooox|
+|ooooooox|
+|oxxxoxox|
+|oxxoxoxx|
+|oooxooxx|
+|ooxoooxx|
+|oooxxxxx|
+|xoxxxxxx|
+player: x---------<< path #31 >>-----------
+|oooooxxx|
+|oooooxxx|
+|oooooxxx|
+|ooooxoox|
+|oooxxoox|
+|ooxxxoxx|
+|ooxoooox|
+|xxxxxxxx|
+player: o---------<< path #32 >>-----------
+|ooooooox|
+|ooooooxx|
+|oxoooxox|
+|oxoxxxoo|
+|oxxxxxoo|
+|oxxxxooo|
+|oxxxoooo|
+|xooooooo|
+player: x---------<< path #33 >>-----------
+|xxxxxxox|
+|xxxxxoxx|
+|xxxxxxxx|
+|xxxoxxxo|
+|xxoxxxoo|
+|xoxxxooo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #34 >>-----------
+|xxxxxxxx|
+|xxxxxxxx|
+|oxoxooxx|
+|ooxoxxoo|
+|oxoxxxoo|
+|oxxoxooo|
+|oxxxoooo|
+|xxxxxooo|
+player: x---------<< path #35 >>-----------
+|xoooxxxx|
+|xxoooooo|
+|xooxxxoo|
+|xoxxxxoo|
+|xxoxxoxo|
+|xxxxxoxo|
+|xxxxooxo|
+|xxxxoooo|
+player: x---------<< path #36 >>-----------
+|oooooxxo|
+|xxxoxxoo|
+|xxoxoxoo|
+|xoxooxox|
+|xxooooxx|
+|xxxxoxxx|
+|xoooooxx|
+|xoooooox|
+player: x---------<< path #37 >>-----------
+|xxxxxxxx|
+|xoxxoxxx|
+|xxxoooox|
+|xoooooxx|
+|xoooooxx|
+|xoxoxxxx|
+|ooooooxx|
+|xooooxxx|
+player: o---------<< path #38 >>-----------
+|xxxxxxxx|
+|xxoxxooo|
+|xoxxoxoo|
+|oxooxoxx|
+|oooxxooo|
+|ooxxxxxo|
+|oooxxxoo|
+|xooooooo|
+player: x---------<< path #39 >>-----------
+|xxxxxxxx|
+|xxxoxxxx|
+|xxxxxoxx|
+|xxxooxxx|
+|xxxxxoxx|
+|xxooooox|
+|xxooooox|
+|ooooooox|
+player: o---------<< path #40 >>-----------
+|ooooooxx|
+|oooxooox|
+|ooxoxoox|
+|ooooxoxx|
+|oooxxoxx|
+|ooxoooxx|
+|ooooxxox|
+|xxooxxxx|
+player: x---------<< path #41 >>-----------
+|ooooooox|
+|ooooooox|
+|xxoxxxxx|
+|ooxoxxxx|
+|oxoxxxoo|
+|ooxxxoxo|
+|ooxxoooo|
+|oooooooo|
+player: o---------<< path #42 >>-----------
+|xooooooo|
+|xoxxoooo|
+|xoxxxoxo|
+|xoxxxxxo|
+|xxxooxxo|
+|xxooooxo|
+|xooooooo|
+|oooooooo|
+player: x---------<< path #43 >>-----------
+|oxxxxxxx|
+|oxxooxxx|
+|oxoxoxxx|
+|oxooxoxx|
+|oxoooxxx|
+|oxooooxx|
+|oxooxxxx|
+|xxxxxxxx|
+player: o---------<< path #44 >>-----------
+|ooxxoooo|
+|xoooooxo|
+|xxoooxoo|
+|xoxxxoxo|
+|xoxxxxoo|
+|xxxxxoxo|
+|xxxooxxo|
+|xxxxxxxo|
+player: x---------<< path #45 >>-----------
+|oxxxxxxx|
+|oooooxxx|
+|oooxooxx|
+|ooxoooox|
+|oxxooooo|
+|xooooxoo|
+|xooooooo|
+|xooooooo|
+player: x---------<< path #46 >>-----------
+|oooooxoo|
+|oxxoxxxo|
+|oxoxooxo|
+|oooxxxxx|
+|oxoooooo|
+|oooxoooo|
+|oooooooo|
+|oooooooo|
+player: o---------<< path #47 >>-----------
+|oxoooooo|
+|oxxxxxoo|
+|oxxxxooo|
+|oxxooooo|
+|oxxooxoo|
+|ooxooooo|
+|xxooxxoo|
+|xooooooo|
+player: x---------<< path #48 >>-----------
+|ooooxxxx|
+|oooooooo|
+|oooooxox|
+|ooxxxoox|
+|oxxxoxxx|
+|oxxxoxxx|
+|oooooxxx|
+|ooooooox|
+player: x---------<< path #49 >>-----------
+|ooooooox|
+|ooxoxxxx|
+|ooooxxxx|
+|ooxxoxoo|
+|ooxoxooo|
+|oooooxoo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #50 >>-----------
+|xxxooxxo|
+|xxoooooo|
+|xxooxooo|
+|xxoxoxoo|
+|xxoooxoo|
+|xxooxooo|
+|xxoooxox|
+|xooooooo|
+player: x---------<< path #51 >>-----------
+|xooooooo|
+|xxxxoxoo|
+|xxxxxooo|
+|xoxoxxxx|
+|xoxxoxxx|
+|xoxxxxxx|
+|xooxxoxx|
+|xxxxxxxx|
+player: x---------<< path #52 >>-----------
+|xxxxxxxx|
+|xooxxoxx|
+|xoxooxox|
+|xoxooooo|
+|xxoxoxoo|
+|xoxooxox|
+|xxxxxxox|
+|ooooooox|
+player: x---------<< path #53 >>-----------
+|xxxxxxxx|
+|xxxxxxxx|
+|oooooxxx|
+|ooxooxxx|
+|oxoxoxxx|
+|oxoxoxxx|
+|oxxooxxx|
+|oxxxxxxx|
+player: x---------<< path #54 >>-----------
+|xxxxxxoo|
+|xxxxxxoo|
+|xxxxxxoo|
+|xoxxoxxo|
+|xoooooxo|
+|xoxxoooo|
+|xooooxoo|
+|xoooxxoo|
+player: o---------<< path #55 >>-----------
+|oooxoooo|
+|oooooxoo|
+|oxxooooo|
+|oxoxooxx|
+|ooxxooxx|
+|oxoooxxx|
+|xxxooxxx|
+|xxxxxxxx|
+player: x---------<< path #56 >>-----------
+|xooxxxxx|
+|xxxxxxxx|
+|xxxxooxx|
+|xxoxxxox|
+|xooxooox|
+|xoxxxxox|
+|xoxxxxox|
+|xoooooox|
+player: o---------<< path #57 >>-----------
+|oooooooo|
+|xooxxoox|
+|xoxxooxx|
+|xxxoxxxx|
+|xoooxxxx|
+|xooxxxox|
+|oooxxoox|
+|ooooooox|
+player: o---------<< path #58 >>-----------
+|xooooooo|
+|xooooooo|
+|xxxxxxoo|
+|xooxxooo|
+|xoxoxooo|
+|oxoxxooo|
+|xxxooxxo|
+|xxoooooo|
+player: x---------<< path #59 >>-----------
+|ooxxxxxx|
+|oooxxooo|
+|oooxxxoo|
+|ooxoxooo|
+|xxoxoooo|
+|xxxoxooo|
+|xxxxoxoo|
+|ooxooooo|
+player: o---------<< path #60 >>-----------
+|oooooooo|
+|oooooxox|
+|ooxoxoxx|
+|ooxxxxox|
+|oxoxxoxx|
+|oxxxooxx|
+|oxxxxxxx|
+|xxxxxxxx|
+player: x---------<< path #61 >>-----------
+|oxxxxxxx|
+|oxxxxooo|
+|oooooooo|
+|oxxooooo|
+|oxxooxoo|
+|ooxoxxoo|
+|oooxxxoo|
+|xooooooo|
+player: x---------<< path #62 >>-----------
+|oxxxxxxx|
+|oxxoooox|
+|oxoxoxxo|
+|oxooxxoo|
+|oxooxxoo|
+|oxoxooxo|
+|oxxxxxxo|
+|oxoooooo|
+player: o---------<< path #63 >>-----------
+|oooooooo|
+|oooooooo|
+|ooooooox|
+|ooooooxx|
+|oooooxxx|
+|oooooxxx|
+|oooooxxx|
+|oooooxxx|
+player: x---------<< path #64 >>-----------
+|xxxxxxxo|
+|ooxooxoo|
+|ooxxxooo|
+|ooooxxoo|
+|ooooxxoo|
+|ooxxoooo|
+|ooxxxxoo|
+|xooooooo|
+player: x---------<< path #65 >>-----------
+|xxxxxxxx|
+|xxxxxxxo|
+|xxoooxoo|
+|xxooxoxo|
+|xxxoooxo|
+|xxxooxoo|
+|xxoxxoxo|
+|oooooooo|
+player: x---------<< path #66 >>-----------
+|oooooooo|
+|oxoooxoo|
+|ooxoxoxo|
+|oxxoxxxx|
+|oxoooooo|
+|xoooxooo|
+|xoooooxo|
+|xooooooo|
+player: x---------<< path #67 >>-----------
+|xoooooox|
+|xxooooxx|
+|xxoooxxx|
+|xxoxxoxo|
+|xooxxxoo|
+|xxooxooo|
+|xxxxxxoo|
+|oooooooo|
+player: x---------<< path #68 >>-----------
+|xxxxxxxx|
+|oxxxooxo|
+|oxoxoxoo|
+|oxoxxxoo|
+|oxooxoxo|
+|oxxxoxxo|
+|oxxooxxo|
+|xxxxxxxo|
+player: o---------<< path #69 >>-----------
+|ooooooox|
+|ooooxxoo|
+|ooxxxxoo|
+|ooxoxoox|
+|ooooooxx|
+|oooooxox|
+|ooooooox|
+|xxxxooox|
+player: x---------<< path #70 >>-----------
+|xxxxooox|
+|xxxxoooo|
+|xxxooxxx|
+|xxoooxox|
+|xoxoxoox|
+|xooxxoox|
+|xoxxxxox|
+|xxxxxxxx|
+player: x---------<< path #71 >>-----------
+|oooooooo|
+|ooooxoxx|
+|xoooxxxx|
+|ooooxoxo|
+|ooxxxxoo|
+|ooxxooxo|
+|xxxoxxoo|
+|xooxxooo|
+player: o---------<< path #72 >>-----------
+|xxxxooox|
+|xxxoxoox|
+|xooxoxox|
+|xoxoxoox|
+|xxxoxxox|
+|xxoxxxxx|
+|xxxxxxxx|
+|oxxxxxxx|
+player: x---------<< path #73 >>-----------
+|xxxxxxxx|
+|xxxxxxxo|
+|xxxxxxoo|
+|xxxoxxoo|
+|xxoxoxoo|
+|xoxoxxoo|
+|xooxxooo|
+|xxxxxxox|
+player: o---------<< path #74 >>-----------
+|oooooooo|
+|ooxxxooo|
+|oooooooo|
+|ooooxooo|
+|oooxoooo|
+|ooxoxxoo|
+|oxoooooo|
+|xooooooo|
+player: x---------<< path #75 >>-----------
+|xxxxxxxo|
+|xxxxxxxo|
+|xoxxxooo|
+|oxoxoxox|
+|oxoxxoox|
+|oxoxooox|
+|oxxoooxx|
+|oxxxxxxx|
+player: x---------<< path #76 >>-----------
+|xxxxxxxo|
+|xxxxxooo|
+|xooooooo|
+|xxooxxxx|
+|xxxxxoxx|
+|xxoxxxxx|
+|xxxoooxx|
+|oxxxxxxx|
+player: o---------<< path #77 >>-----------
+|oooxoooo|
+|oooxxxxx|
+|oooxoxxx|
+|oooxoxxx|
+|xoooxxxx|
+|xxxoooxx|
+|oooxooox|
+|ooooooox|
+player: o---------<< path #78 >>-----------
+|xxxxxooo|
+|xxxxxxox|
+|xxxxxoxx|
+|xxoxoxox|
+|xoooxxox|
+|oooxoxxx|
+|ooooxxxx|
+|oooxxxxx|
+player: x---------<< path #79 >>-----------
+|xxxxoooo|
+|xxxxxoox|
+|xxoxooox|
+|xxoxxoox|
+|xxxxxoox|
+|xxoooxxx|
+|xxxxxxxx|
+|xooxxxxx|
+player: x---------<< path #80 >>-----------
+|ooooooox|
+|ooooooox|
+|oooxoxox|
+|xoxxxoox|
+|xxxooxox|
+|xooooxox|
+|xoooxoxx|
+|ooooooox|
+player: x---------<< path #81 >>-----------
+|ooooooox|
+|ooooooxx|
+|ooooxoxx|
+|oooooxxx|
+|oxooxoxx|
+|oooxooox|
+|ooxxxoox|
+|oxxxxxxx|
+player: x---------<< path #82 >>-----------
+|xxxxxooo|
+|xxxxxooo|
+|xxoxxooo|
+|xxxxooxo|
+|xxxoxxxo|
+|xxooxxxx|
+|xooxxxxx|
+|ooxxxxxx|
+player: x---------<< path #83 >>-----------
+|oxxxxxxo|
+|oxxxxxxo|
+|xxxxxxxx|
+|xxoxooxx|
+|xoxooxxx|
+|xoooxxxx|
+|xooxxoxx|
+|xxxxxxxx|
+player: o---------<< path #84 >>-----------
+|ooooxxxx|
+|ooooxxxx|
+|oooooxxx|
+|oooxxoox|
+|ooxxoxox|
+|xxxxxxox|
+|xxooxxxx|
+|oooooxxx|
+player: o---------<< path #85 >>-----------
+|xxxxxxxo|
+|xxxxxxoo|
+|xxxxoxoo|
+|xxxoooxo|
+|xxooooxo|
+|xooooooo|
+|oooooooo|
+|xooooooo|
+player: x---------<< path #86 >>-----------
+|ooooooxx|
+|xooooooo|
+|xxxooooo|
+|xxoxxoxo|
+|xooxoxxo|
+|xoxoxxoo|
+|xxoxxxxo|
+|xoxxxxxx|
+player: x---------<< path #87 >>-----------
+|xxxxxxox|
+|oxxxxoox|
+|xxxxoxox|
+|xxooooox|
+|xxxxooxx|
+|xxxxooxx|
+|xxooxxxx|
+|xoooxxxx|
+player: o---------<< path #88 >>-----------
+|xxxxxxxx|
+|ooxxxxxx|
+|xxxxoxox|
+|xxxoxxox|
+|xxxxooxx|
+|xxxooxox|
+|xxxoxoox|
+|ooooooox|
+player: o---------<< path #89 >>-----------
+|xxxxxxox|
+|xxxoxoox|
+|xooxoxox|
+|ooooooox|
+|xxooooox|
+|xxooxoxx|
+|xoooooox|
+|xoooooox|
+player: x---------<< path #90 >>-----------
+|xxxoooox|
+|oxxoooox|
+|oxoxoxox|
+|oxooxoox|
+|oxoxoxox|
+|oooooxox|
+|ooooooox|
+|xooxxoox|
+player: x---------<< path #91 >>-----------
+|xoooooox|
+|ooxooxxx|
+|oooxooxx|
+|ooxxxxox|
+|oxooxooo|
+|oooxxooo|
+|ooxxxxoo|
+|xxxxxxxo|
+player: x---------<< path #92 >>-----------
+|xxxxxxxx|
+|xxxxxxxx|
+|xxxxxxox|
+|xxxxxoxx|
+|xxxoooxo|
+|xxxoxxoo|
+|oooxxxxo|
+|ooooooxo|
+player: o---------<< path #93 >>-----------
+|xoooooox|
+|xooxooxx|
+|xxxxooox|
+|xxoooooo|
+|xxxxoxoo|
+|xxxoxxoo|
+|xxxxoxxo|
+|xxxxxxxx|
+player: x---------<< path #94 >>-----------
+|oooooooo|
+|xxxxxxox|
+|xxxxxoxx|
+|xoxxooxx|
+|xoxoooxx|
+|ooooooxx|
+|xooxooxx|
+|xoooooox|
+player: x---------<< path #95 >>-----------
+|xoxxxxxx|
+|xoxxxxox|
+|ooxxooxx|
+|ooxooxxx|
+|oxoooxxx|
+|ooxooxxx|
+|oxxxxxxx|
+|oxxxxxxx|
+player: x---------<< path #96 >>-----------
+|xxxxxxxx|
+|xxxooooo|
+|xxoxoxoo|
+|xxxxoooo|
+|xxooxxxx|
+|xxoxxxxx|
+|oxxxxxxx|
+|oxxxxxxx|
+player: x---------<< path #97 >>-----------
+|xxxxxxxx|
+|xoxxxoxx|
+|xxoxoxox|
+|xooxooxx|
+|xoxoooxx|
+|xxoooxxx|
+|xxxxxxxx|
+|oxxxxxxx|
+player: o---------<< path #98 >>-----------
+|oooxoooo|
+|xxoxxooo|
+|xxooxxoo|
+|xxoxooxo|
+|xoxxxxxx|
+|xoxoooxx|
+|xxooooxx|
+|xxxxxxxx|
+player: o---------<< path #99 >>-----------
+|oooooooo|
+|oxxxxxoo|
+|oxxoooxo|
+|oxoxxxxx|
+|oooxoooo|
+|ooxoxooo|
+|oooooxoo|
+|oooooooo|
+player: o---------<< path #100 >>-----------
+|xxxxxooo|
+|oxxxxxox|
+|xxxxxoxx|
+|xxxxooxx|
+|xxxoxoox|
+|xxoxxoox|
+|ooooooox|
+|oxooooox|
+player: o---------<< path #101 >>-----------
+|xxxxxxxx|
+|xooooooo|
+|xoxxoxoo|
+|xoxoxxoo|
+|xxooxooo|
+|xooxxxoo|
+|ooxxxxoo|
+|oooxoooo|
+player: x---------<< path #102 >>-----------
+|oooooxoo|
+|ooxoxxoo|
+|oxoxoooo|
+|oooooooo|
+|oxooooxo|
+|ooooooxo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #103 >>-----------
+|oxxxxxxo|
+|oooooooo|
+|ooooxoox|
+|ooxoxoxx|
+|oxoxoxox|
+|ooxooxox|
+|ooooooox|
+|ooooooox|
+player: x---------<< path #104 >>-----------
+|oooooooo|
+|xxxxoooo|
+|xxxoxoxo|
+|xoxxoooo|
+|xoxooooo|
+|xoooooxo|
+|xooooooo|
+|oooooooo|
+player: x---------<< path #105 >>-----------
+|xxxxxxxo|
+|xxxxxxoo|
+|xxxxxooo|
+|xxxxxoox|
+|xxxoooxx|
+|xxxooxxx|
+|xxoxxxxx|
+|oooooxxx|
+player: x---------<< path #106 >>-----------
+|oooooooo|
+|oooxxxxo|
+|oooxxxxx|
+|oooxooxx|
+|ooooxoxx|
+|ooooooox|
+|ooooooxx|
+|oxxooooo|
+player: o---------<< path #107 >>-----------
+|oxxxxxxx|
+|oxoooooo|
+|oxoxoxox|
+|oxoxxxox|
+|oooxxxox|
+|ooxxxxox|
+|oxooooxx|
+|xxxxxxxx|
+player: x---------<< path #108 >>-----------
+|ooxooooo|
+|ooxxxxxx|
+|ooxoooxo|
+|oxxxoooo|
+|ooxoxooo|
+|ooxxxxoo|
+|xxxxxxxo|
+|xooooooo|
+player: o---------<< path #109 >>-----------
+|oooooooo|
+|xxxxxooo|
+|xxxxoxoo|
+|xxxoooxo|
+|xxoooxxo|
+|xxooxoxo|
+|xxxoooxo|
+|xooooooo|
+player: x---------<< path #110 >>-----------
+|oooxxxxx|
+|oooooooo|
+|oxoxxxoo|
+|oooxoooo|
+|oxxoxxoo|
+|oxoooxoo|
+|xxxxxoox|
+|ooooooox|
+player: x---------<< path #111 >>-----------
+|xooooooo|
+|xooooxxo|
+|xoooxxxx|
+|xoxxooxo|
+|xoxooxoo|
+|xxooxooo|
+|xxoxoooo|
+|xxxxxxxo|
+player: x---------<< path #112 >>-----------
+|xxxxxxxo|
+|xoooxxxx|
+|xoooooxx|
+|xoxoxoox|
+|xxooxxox|
+|xooxxoxx|
+|ooxxxxxx|
+|xxxxxxxx|
+player: x---------<< path #113 >>-----------
+|xxxxxxxx|
+|ooxoxxxx|
+|oooooxox|
+|ooooooox|
+|oxxoxoox|
+|ooooooxx|
+|ooooooxx|
+|oooooooo|
+player: o---------<< path #114 >>-----------
+|xxxxxxxx|
+|xxxoooxx|
+|xooooxxx|
+|ooxoxxxx|
+|ooxoxxxx|
+|ooxxooxx|
+|ooxxxxxx|
+|oxxxxxxx|
+player: o---------<< path #115 >>-----------
+|oooooooo|
+|oooooxoo|
+|xxooxoxo|
+|xxxxooxx|
+|xxxoooxx|
+|xooxxoxo|
+|ooxxxxoo|
+|xoxxxooo|
+player: x---------<< path #116 >>-----------
+|oooooooo|
+|ooxxooxx|
+|xxoxxooo|
+|xxoooooo|
+|xxoxoooo|
+|xxooxoxo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #117 >>-----------
+|ooooooxo|
+|xxxxxooo|
+|xoxxxxoo|
+|xxxooooo|
+|xxoooooo|
+|xxoooxoo|
+|ooooxxoo|
+|oooooooo|
+player: x---------<< path #118 >>-----------
+|ooxooooo|
+|ooxxxxxx|
+|ooxoooxo|
+|oxxxoooo|
+|ooxoxooo|
+|ooxxxxoo|
+|xxxxxxxo|
+|xooooooo|
+player: o---------<< path #119 >>-----------
+|oxxxxxxx|
+|oxxxxxxx|
+|oxxxoxox|
+|xxxxoxxx|
+|xxoxoxxx|
+|xxxxooox|
+|xxxxxoox|
+|xoooooox|
+player: o---------<< path #120 >>-----------
+|xxxxxxxx|
+|xxoooxxx|
+|xxoooxxx|
+|xooxooxo|
+|ooooxxoo|
+|oxoxxooo|
+|oxxxxxoo|
+|oxxxxooo|
+player: o---------<< path #121 >>-----------
+|xxxxxxxo|
+|xxxxxxxo|
+|ooooooxo|
+|ooxooooo|
+|ooxoxxox|
+|ooxxxoxx|
+|oxxxooox|
+|oxxxxxxx|
+player: x---------<< path #122 >>-----------
+|oooxxxxx|
+|oooooooo|
+|oooooxoo|
+|ooooooxo|
+|oooooxxx|
+|xxxooxxx|
+|xxoooxxx|
+|ooooxxxx|
+player: x---------<< path #123 >>-----------
+|xooooooo|
+|xxxxxooo|
+|xoxxxxxo|
+|xoxxoxoo|
+|xoxoxxoo|
+|xooxoxoo|
+|xooooooo|
+|xooooooo|
+player: x---------<< path #124 >>-----------
+|oxxxxxoo|
+|oxxoxxoo|
+|oxoxoxxo|
+|oxxoxxxo|
+|oxoooooo|
+|xooooxoo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #125 >>-----------
+|oxxxxxxx|
+|oxoooooo|
+|oxoxoxox|
+|oxoxxxox|
+|oooxxxox|
+|ooxxxxox|
+|oxooooxx|
+|xxxxxxxx|
+player: x---------<< path #126 >>-----------
+|ooooxxxx|
+|oooooooo|
+|ooxoxxoo|
+|ooxoxooo|
+|oooxoxoo|
+|ooooxoxo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #127 >>-----------
+|oooxxxxx|
+|ooxxxoxx|
+|oxoxoxox|
+|ooooooxx|
+|oxxxxxox|
+|ooooooxx|
+|ooooooox|
+|oooooooo|
+player: o---------<< path #128 >>-----------
+|ooooooxo|
+|xxxxxooo|
+|xoxxxxoo|
+|xxxooooo|
+|xxoooooo|
+|xxoooxoo|
+|ooooxxoo|
+|oooooooo|
+player: x---------<< path #129 >>-----------
+|xxxxxxoo|
+|xxxoxxxx|
+|oxooooxx|
+|ooxoooox|
+|oxooxoox|
+|ooxoxoox|
+|oooxooxx|
+|xoooooxx|
+player: x---------<< path #130 >>-----------
+|xooooooo|
+|xooooooo|
+|xooxxxoo|
+|xoxxoooo|
+|xxxooxoo|
+|xxoooxoo|
+|xxooxxoo|
+|oooooooo|
+player: x---------<< path #131 >>-----------
+|oooooooo|
+|ooxooxoo|
+|oxoxxoxo|
+|xxxxoxxo|
+|xxxoooxo|
+|xxxxxxxo|
+|xxoooxxo|
+|xxxxxxxo|
+player: x---------<< path #132 >>-----------
+|oooooooo|
+|xxxoooox|
+|oxooooxx|
+|oooxooxx|
+|ooooxoxx|
+|oooxxoox|
+|oxxxxxxx|
+|oxxxxxxx|
+player: x---------<< path #133 >>-----------
+|xooooooo|
+|xooooooo|
+|xooxxoxo|
+|xooxxxxx|
+|xooxoxxx|
+|xxooxoxx|
+|xxoxoxxx|
+|xxxxxxxx|
+player: x---------<< path #134 >>-----------
+|xxxxxxxo|
+|xxxxxxxx|
+|xxxxxoox|
+|xxoxooox|
+|xxxoxxox|
+|oxoxxxoo|
+|oooxxooo|
+|oooxxxxo|
+player: x---------<< path #135 >>-----------
+|ooooooxx|
+|oooooooo|
+|ooooxxoo|
+|ooooooxo|
+|oooxxxoo|
+|ooxxxoxo|
+|oxoooxxo|
+|xxxxxxxo|
+player: x---------<< path #136 >>-----------
+|oxxooooo|
+|xxxxooxx|
+|xxooxoox|
+|xxxooooo|
+|xxxxoooo|
+|xooooooo|
+|xoooxxoo|
+|oooooooo|
+player: o---------<< path #137 >>-----------
+|oxxxxxxo|
+|oooooooo|
+|oooooxoo|
+|ooxoxoxo|
+|oxooxoxo|
+|ooxoooxo|
+|oooooooo|
+|xooooooo|
+player: x---------<< path #138 >>-----------
+|xxxxxxxo|
+|xoxoxxoo|
+|xooxoxoo|
+|xoxooxxo|
+|xxooxxoo|
+|xoxxxxoo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #139 >>-----------
+|oooooooo|
+|oooxxxxx|
+|ooooxoxx|
+|ooxxxxxx|
+|ooxxxxxx|
+|oooxxoxo|
+|xxxxoxoo|
+|xxxooooo|
+player: o---------<< path #140 >>-----------
+|xxxoxxxx|
+|xxoooxxx|
+|ooooooxx|
+|ooooooxx|
+|oxooxoxx|
+|oxooooxx|
+|oxxoooxx|
+|oxxxxxxx|
+player: x---------<< path #141 >>-----------
+|xoxxxxxx|
+|xxxxxooo|
+|xxxoxooo|
+|ooooxooo|
+|ooxxoxoo|
+|oxoooooo|
+|oxoooxoo|
+|oxxxxxxo|
+player: x---------<< path #142 >>-----------
+|oooooooo|
+|xxxxxxxx|
+|xxxoxxxx|
+|xxxxoxxx|
+|oxxxxxxx|
+|oxxxooxx|
+|oxxxxxxx|
+|oxxxxxxx|
+player: o---------<< path #143 >>-----------
+|xxxxxxxx|
+|xxxxxxxx|
+|xoxoxxxx|
+|xoxoxxxx|
+|xoxoxxxo|
+|xoxoxxoo|
+|xxxoxooo|
+|xooooooo|
+player: o---------<< path #144 >>-----------
+|oooooooo|
+|xoooooxo|
+|xoxoxxoo|
+|xooxxxoo|
+|ooxxxxoo|
+|ooxxxxoo|
+|ooxoooxx|
+|xxxxxxxx|
+player: x---------<< path #145 >>-----------
+|xxxxxoxx|
+|xxxxxxox|
+|xxxxxxxx|
+|xxxoxxxx|
+|xxooooxx|
+|xoooxxxx|
+|xxxxxxxx|
+|xxxxxxxx|
+player: o---------<< path #146 >>-----------
+|oooooooo|
+|oooxooxx|
+|ooxoxoxx|
+|ooxooxxx|
+|oxooxoxx|
+|oxxxxxox|
+|oxxxxoxx|
+|oxxxxxxx|
+player: x---------<< path #147 >>-----------
+|oooooxoo|
+|ooooxxoo|
+|oooxxxxo|
+|ooxxxxoo|
+|ooxoxooo|
+|oxoooxxo|
+|xxxxxxoo|
+|xooooooo|
+player: x---------<< path #148 >>-----------
+|oooooooo|
+|oxxxxxoo|
+|ooooxxxo|
+|oxxxxxxo|
+|oxooxoxo|
+|oooxooxo|
+|ooxxooxo|
+|oooooooo|
+player: x---------<< path #149 >>-----------
+|oooooooo|
+|xxxxxxxo|
+|xxxxxxxo|
+|xxxxxxxo|
+|xxxxoxoo|
+|oxxxoooo|
+|xxxooooo|
+|xoooooox|
+player: o---------<< path #150 >>-----------
+|oxoooooo|
+|oxxoooxx|
+|oxxxoxxx|
+|oxooxxxx|
+|ooooxxxx|
+|ooxxoxxx|
+|oxxoooxx|
+|xxxxxxxx|
+player: o---------<< path #151 >>-----------
+|oooooxxx|
+|ooooooxx|
+|oooxoxox|
+|ooxoxxox|
+|oxoxxxxx|
+|ooxxoxox|
+|oxxxxxxx|
+|xxxxxxxx|
+player: x---------<< path #152 >>-----------
+|xxxxxoox|
+|xxoxoooo|
+|xoxoxxoo|
+|xxooxxxo|
+|xooooxoo|
+|xoxooxoo|
+|xooxxxox|
+|xooxxxoo|
+player: x---------<< path #153 >>-----------
+|xxxxooox|
+|xxxxoooo|
+|xxxooxxx|
+|xxoooxox|
+|xoxoxoox|
+|xooxxoox|
+|xoxxxxox|
+|xxxxxxxx|
+player: x---------<< path #154 >>-----------
+|oooooooo|
+|ooxoooxx|
+|oooxooox|
+|xoxooxox|
+|xxoxxoox|
+|xxoxxxox|
+|xxxoooox|
+|xxxxxxxx|
+player: x---------<< path #155 >>-----------
+|ooooooox|
+|oooxxoxo|
+|ooxxoxoo|
+|oxoooooo|
+|xxoooooo|
+|xxxoxooo|
+|oooooooo|
+|oooooooo|
+player: o---------<< path #156 >>-----------
+|oxxooooo|
+|xxxxooxx|
+|xxooxoox|
+|xxxooooo|
+|xxxxoooo|
+|xooooooo|
+|xoooxxoo|
+|oooooooo|
+player: o---------<< path #157 >>-----------
+|xxxxxxxx|
+|xxxooooo|
+|xooooooo|
+|xoxooooo|
+|xxoxoxoo|
+|xxooxxoo|
+|xxxxxooo|
+|xxxxxxxx|
+player: x---------<< path #158 >>-----------
+|oooooooo|
+|oooxxooo|
+|oxxoooxo|
+|xxxxoxxo|
+|xxxxxooo|
+|xoxxoxoo|
+|xxxxxoxx|
+|xxxxxxxx|
+player: x---------<< path #159 >>-----------
+|ooooooox|
+|oooooooo|
+|xooooxoo|
+|xxoxxoox|
+|xoxxooxx|
+|xxxxooxx|
+|xxxxooox|
+|xxxxxxox|
+player: x---------<< path #160 >>-----------
+|xxxxxxxo|
+|oxxxxxoo|
+|ooxoxoxo|
+|ooxxoxoo|
+|oxxooxoo|
+|oxooxxoo|
+|oooooxoo|
+|oooooxoo|
+player: x---------<< path #161 >>-----------
+|oooooooo|
+|oooooooo|
+|oooooxoo|
+|oooooooo|
+|ooxxxxxx|
+|oxxxoxxx|
+|ooxxxxxx|
+|oooxxxxx|
+player: x---------<< path #162 >>-----------
+|xxxooooo|
+|xxxxxxoo|
+|xxxxxoxo|
+|oxoxoxxo|
+|oxxoxxxo|
+|oxoxooxo|
+|oxxooooo|
+|oxoooooo|
+player: x---------<< path #163 >>-----------
+|oooooooo|
+|ooooooxx|
+|ooooxoxx|
+|oooxoooo|
+|ooxxoooo|
+|oxxxoooo|
+|xxxxxooo|
+|xooooooo|
+player: x---------<< path #164 >>-----------
+|oooxoooo|
+|xxxxxooo|
+|xxoxoxox|
+|xxxoooxx|
+|xxxoooxx|
+|xooooxxx|
+|xoooxxxx|
+|xooxxxxx|
+player: x---------<< path #165 >>-----------
+|xoooooox|
+|xoooooox|
+|xoxooxox|
+|xooxxoxx|
+|xooxxoox|
+|xoxxoooo|
+|ooxxxxxx|
+|xoxxxxxx|
+player: x---------<< path #166 >>-----------
+|xxxxxxxo|
+|xxxooxxo|
+|xxxxxxxx|
+|xxoxxoxx|
+|xoooooxx|
+|xoooxxox|
+|xoooooxx|
+|xxxxxxxx|
+player: o---------<< path #167 >>-----------
+|ooooooox|
+|oxoooooo|
+|oooxxxoo|
+|oxoxxxoo|
+|ooooxooo|
+|oooooxoo|
+|ooooxxoo|
+|oooooooo|
+player: x---------<< path #168 >>-----------
+|oooooooo|
+|oooxxooo|
+|ooxoxxoo|
+|oxoooooo|
+|ooxoxooo|
+|oxxxxoxo|
+|xxxooooo|
+|xooooooo|
+player: x---------<< path #169 >>-----------
+|oooooooo|
+|ooooxxxx|
+|oooooxxx|
+|xoxooxxo|
+|xxxoxxoo|
+|xxxxooxo|
+|xxxoxxoo|
+|xxxxxxxo|
+player: x---------<< path #170 >>-----------
+|ooxxxxxo|
+|oooooooo|
+|ooxxooox|
+|ooxoxooo|
+|oooxoooo|
+|ooxooooo|
+|oooooooo|
+|xooooooo|
+player: x---------<< path #171 >>-----------
+|oooooooo|
+|ooxxoooo|
+|oooxxoxo|
+|oooxoxoo|
+|oooooxoo|
+|oooooooo|
+|ooxxxooo|
+|oooooooo|
+player: o---------<< path #172 >>-----------
+|oxxxxxxx|
+|oxoooooo|
+|oooxxxoo|
+|oxoxxooo|
+|oxxoxxox|
+|oxoxxxxx|
+|ooxoooxx|
+|oxxxxxxx|
+player: x---------<< path #173 >>-----------
+|ooooooxx|
+|oxoooooo|
+|ooxoxxoo|
+|oxxxxoxo|
+|ooxoooxo|
+|ooxoooxo|
+|oooxxooo|
+|oooooooo|
+player: x---------<< path #174 >>-----------
+|xxxxxxxo|
+|xxxooxxo|
+|xxoooooo|
+|xxxoooxo|
+|xxxoooxo|
+|xoooxxoo|
+|xooooooo|
+|xooxxxxx|
+player: x---------<< path #175 >>-----------
+|oooooooo|
+|oooooxxx|
+|oooxxxxx|
+|xoxxxoxx|
+|xxxxxoox|
+|xxxxooox|
+|xxoooxxx|
+|xxxoxxxx|
+player: x---------<< path #176 >>-----------
+|oooooxxx|
+|ooooooxx|
+|oooxoxoo|
+|ooxxoxoo|
+|xoxxooxo|
+|xxxoooxo|
+|xxxxooxo|
+|xooooooo|
+player: x---------<< path #177 >>-----------
+|xxxxxxoo|
+|xoxxxxox|
+|xxoxooxx|
+|xxooooxx|
+|xxoooxxx|
+|xooooxox|
+|ooooooox|
+|xxxxooox|
+player: x---------<< path #178 >>-----------
+|xxxxxxxx|
+|ooooooxx|
+|oooooxxx|
+|oooooxxx|
+|oxooxxoo|
+|oxooxxoo|
+|oxxxxxoo|
+|oxxxxxxx|
+player: x---------<< path #179 >>-----------
+|ooooxooo|
+|ooxxxxxx|
+|ooooooxx|
+|ooxooxxx|
+|oxoxxxxx|
+|oooxxxox|
+|oooxxxxx|
+|xxxxxxxx|
+player: x---------<< path #180 >>-----------
+|xxxxxxxx|
+|xoxxxxxx|
+|xxxxoxox|
+|xxooooox|
+|xoxooxox|
+|xooxxxox|
+|xoooooxx|
+|xxxxxxxx|
+player: o---------<< path #181 >>-----------
+|ooooxxxx|
+|xxoxoooo|
+|xoxxxxoo|
+|xxooooxo|
+|xxxxxxoo|
+|xxxxxoxo|
+|xxxxooxo|
+|xxxxxxxo|
+player: x---------<< path #182 >>-----------
+|xxxxxxxx|
+|xxxxoxxx|
+|xxxoxxxx|
+|xxoxxoxx|
+|xoxxxoox|
+|ooooooxx|
+|xxxxoxxx|
+|xxxoxxxx|
+player: o---------<< path #183 >>-----------
+|xxxxxxxx|
+|oxxooxxx|
+|oxoxoxox|
+|oxooxoxx|
+|oxoxoxxo|
+|ooxoxxoo|
+|oooooxoo|
+|xxxxxxxo|
+player: o---------<< path #184 >>-----------
+|oxxxxxxx|
+|oxxooooo|
+|oxxoxxoo|
+|oxooxooo|
+|ooxooxoo|
+|oooooooo|
+|xxoooooo|
+|xxxooooo|
+player: x---------<< path #185 >>-----------
+|oooxxxxx|
+|ooooxxxx|
+|oooxxxox|
+|ooxoxoxx|
+|ooxoooxx|
+|oooooxxx|
+|xooooxxx|
+|oooxxxxx|
+player: x---------<< path #186 >>-----------
+|xoooooox|
+|xooxxooo|
+|oooooooo|
+|oooooooo|
+|oooooxoo|
+|oooooooo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #187 >>-----------
+|xxxxxooo|
+|xxxxxxox|
+|xxxxxoxx|
+|xxoxoxox|
+|xoooxxox|
+|oooxoxxx|
+|ooooxxxx|
+|oooxxxxx|
+player: x---------<< path #188 >>-----------
+|xxxoooox|
+|xxxxxoxx|
+|xxxxxoxx|
+|xxxoxoxx|
+|xxooxoxx|
+|xooxxxxx|
+|oooooooo|
+|xooooooo|
+player: x---------<< path #189 >>-----------
+|oooxxxxx|
+|ooooooxx|
+|xxoooxox|
+|xxooooxo|
+|xooooxxo|
+|xooxoooo|
+|xxxoooxo|
+|ooooooxo|
+player: x---------<< path #190 >>-----------
+|xxxxxxox|
+|xxxxxxxx|
+|xxxxxoxx|
+|xxoxoxxx|
+|xxoxxxxx|
+|xxxxoxxx|
+|xxxxxoxx|
+|oooxxxxx|
+player: o---------<< path #191 >>-----------
+|oooooooo|
+|oxoooxxx|
+|ooxxxoxo|
+|oxxxoooo|
+|xxxxooxo|
+|xxxxoxxo|
+|xxxxxoxo|
+|xxxxoooo|
+player: o---------<< path #192 >>-----------
+|ooooooxx|
+|oooooxxx|
+|ooooxxox|
+|oooxooxx|
+|ooxxooox|
+|oooooxxx|
+|xxxxxxxx|
+|xxxxxxxx|
+player: o---------<< path #193 >>-----------
+|xxxxxxxx|
+|xxooxxxx|
+|oooxoooo|
+|oxxxxxxx|
+|oxooxxxx|
+|oxoxxxxx|
+|oooxxoxx|
+|ooxxxxxx|
+player: x---------<< path #194 >>-----------
+|oxxxxxxx|
+|oxxxooox|
+|oooxxxxx|
+|oxooxxox|
+|oxxoxoxx|
+|oxoxooxx|
+|xxxxxxxx|
+|xxxxxxox|
+player: o---------<< path #195 >>-----------
+|xxxxxxxx|
+|ooxxoooo|
+|ooxoxooo|
+|ooxoxooo|
+|oxoooooo|
+|oxxooooo|
+|oxxoxxxo|
+|oxoooooo|
+player: x---------<< path #196 >>-----------
+|xoxxxxxx|
+|xoxxxxox|
+|ooxxooxx|
+|ooxooxxx|
+|oxoooxxx|
+|ooxooxxx|
+|oxxxxxxx|
+|oxxxxxxx|
+player: x---------<< path #197 >>-----------
+|oooooooo|
+|oooxxooo|
+|oxxxxooo|
+|oxoxxxoo|
+|oxoxxooo|
+|xxxxxxxo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #198 >>-----------
+|oooooooo|
+|ooxooxoo|
+|oxoxxoxo|
+|xxxxoxxo|
+|xxxoooxo|
+|xxxxxxxo|
+|xxoooxxo|
+|xxxxxxxo|
+player: x---------<< path #199 >>-----------
+|ooooooxo|
+|oooooooo|
+|oxooxxxo|
+|oxoooxxo|
+|ooooxxxx|
+|oxooxxxx|
+|ooxxxxxx|
+|oooooxxx|
+player: x

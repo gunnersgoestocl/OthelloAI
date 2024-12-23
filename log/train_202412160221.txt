@@ -1,0 +1,92 @@
+2024/12/16 02:21
+---------<< path #0 >>-----------
+|xxxxxooo|
+|xxxxxxoo|
+|xxxxxxxo|
+|xxoxoxoo|
+|xoxoooxo|
+|oooxooxo|
+|ooxooooo|
+|xxxxoooo|
+player: x---------<< path #1 >>-----------
+|oooooooo|
+|xxoooxxo|
+|xxxxooxo|
+|xxxxxoxo|
+|xxxxooxo|
+|xxxxxoxo|
+|xxxxxooo|
+|xxxxxooo|
+player: x---------<< path #2 >>-----------
+|xooxxxxx|
+|ooooxoxx|
+|oooxoxxx|
+|oooxxoox|
+|xooxoxox|
+|xxooooxx|
+|xxxxxxxx|
+|xxxxxxxx|
+player: x---------<< path #3 >>-----------
+|oooooooo|
+|xooxxoxo|
+|xooooxxo|
+|xoxoooxo|
+|xoxoooxo|
+|xxooxxxo|
+|xooxxxxo|
+|oooooxxx|
+player: x---------<< path #4 >>-----------
+|xooooooo|
+|xooooooo|
+|xxxxxooo|
+|xxxxooxo|
+|xxxoooxx|
+|xxxxxoxo|
+|xxooxooo|
+|xxxxxxxo|
+player: x---------<< path #5 >>-----------
+|oooooooo|
+|oooxxxoo|
+|ooooxxxo|
+|ooxoooxo|
+|oxooooxo|
+|oxooxoxo|
+|ooxxxooo|
+|oooooooo|
+player: x---------<< path #6 >>-----------
+|xooooooo|
+|oooxxooo|
+|ooxoxooo|
+|oooxoooo|
+|oooooooo|
+|oooooooo|
+|oooooooo|
+|oooooooo|
+player: x---------<< path #7 >>-----------
+|ooooooox|
+|xxxxxxxx|
+|oxxxxxox|
+|ooxxxxxx|
+|oooxooxx|
+|ooooxxxx|
+|ooxxooxx|
+|ooooxxxx|
+player: o---------<< path #8 >>-----------
+|xxxoxxxx|
+|xxxxxxxx|
+|xxxxxoxx|
+|oxxxxoxx|
+|ooooxoxx|
+|xoxxoxox|
+|xxxxxxxo|
+|xooooooo|
+player: x---------<< path #9 >>-----------
+|xxxxxxxx|
+|oooxxooo|
+|oooxxxoo|
+|oxoxoooo|
+|ooooxooo|
+|oooooooo|
+|ooooxooo|
+|ooooxooo|
+player: x

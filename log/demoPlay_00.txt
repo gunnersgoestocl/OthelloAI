@@ -1,0 +1,90 @@
+2024/12/10 01:47
+|        |
+|        |
+|        |
+|   ox   |
+|   xo   |
+|        |
+|        |
+|        |
+player: x|        |
+|        |
+|        |
+|   ox   |
+|   xxx  |
+|        |
+|        |
+|        |
+player: o|        |
+|        |
+|        |
+|   ox   |
+|   xox  |
+|     o  |
+|        |
+|        |
+player: x|        |
+|        |
+|        |
+|   ox   |
+|   xxx  |
+|    xo  |
+|        |
+|        |
+player: o|        |
+|        |
+|        |
+|   ooo  |
+|   xxo  |
+|    xo  |
+|        |
+|        |
+player: x|        |
+|        |
+|    x   |
+|   oxo  |
+|   xxo  |
+|    xo  |
+|        |
+|        |
+player: o|        |
+|   o    |
+|    o   |
+|   oxo  |
+|   xxo  |
+|    xo  |
+|        |
+|        |
+player: x|        |
+|   o    |
+|   xo   |
+|   xxo  |
+|   xxo  |
+|    xo  |
+|        |
+|        |
+player: o|        |
+|   o    |
+|   oo   |
+|   oxo  |
+|   ooo  |
+|   ooo  |
+|        |
+|        |
+player: x|        |
+|   o    |
+|   oo   |
+|  xxxo  |
+|   ooo  |
+|   ooo  |
+|        |
+|        |
+player: o|        |
+|   o    |
+|   oo   |
+| ooooo  |
+|   ooo  |
+|   ooo  |
+|        |
+|        |
+player: x

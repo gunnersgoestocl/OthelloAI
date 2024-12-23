@@ -1,0 +1,177 @@
+1733757313.808091
+Human: -1
+AI: 1
+---------<< Hands >>-----------
+|        |
+|        |
+|        |
+|   ox   |
+|   xo   |
+|        |
+|        |
+|        |
+player: x|        |
+|        |
+|        |
+|   ox   |
+|   xo   |
+|        |
+|        |
+|        |
+player: x|        |
+|        |
+|        |
+|   ox   |
+|   xo   |
+|        |
+|        |
+|        |
+player: x
+Human: (4, 5)
+|        |
+|        |
+|        |
+|   ox   |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((4, 3))
+|        |
+|        |
+|        |
+|   ooo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (5, 2)
+|        |
+|        |
+|     x  |
+|   oxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((5, 1))
+|        |
+|     o  |
+|     o  |
+|   oxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (2, 3)
+|        |
+|     o  |
+|     o  |
+|  xxxo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((1, 3))
+|        |
+|     o  |
+|     o  |
+| ooooo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (3, 2)
+|        |
+|     o  |
+|   x o  |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((2, 1))
+|        |
+|  o  o  |
+|   o o  |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (3, 1)
+|        |
+|  ox o  |
+|   x o  |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((3, 1))
+|        |
+|  oooo  |
+|   o o  |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x|        |
+|  oooo  |
+|   o o  |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: x
+Human: (3, 0)
+|   x    |
+|  oxoo  |
+|   x o  |
+| ooxoo  |
+|   xx   |
+|    x   |
+|        |
+|        |
+player: o
+AI: ((3, 4))
+|   x    |
+|  oxoo  |
+|   x o  |
+| ooxoo  |
+|   ox   |
+|  o x   |
+|        |
+|        |
+player: x
+Human: (0, 3)
+|   x    |
+|  oxoo  |
+|   x o  |
+|xxxxoo  |
+|   ox   |
+|  o x   |
+|        |
+|        |
+player: o
+AI: ((1, 2))
+|   x    |
+|  oxoo  |
+| o x o  |
+|xxoxoo  |
+|   ox   |
+|  o x   |
+|        |
+|        |
+player: x
